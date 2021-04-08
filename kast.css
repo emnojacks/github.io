@@ -10,7 +10,7 @@
         
         body {
             background-color: white;
-            font-family: 'Roboto';
+            font-family: 'Roboto', Arial, Helvetica, sans-serif;
             src: url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xFIzIXKMnyrYk.woff2) format('woff2');
             font-weight: 400;
             color: white;
